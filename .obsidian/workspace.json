@@ -25,26 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/temp.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "01898ec8f2d64efe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "test.md",
+                "file": "Templates/test template.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test.md",
+                "file": "Templates/test template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test.md",
+                "file": "Templates/test template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test.md"
+                "file": "Templates/test template.md"
               }
             }
           }
@@ -170,13 +158,15 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "01898ec8f2d64efe",
+  "active": "16563c0f3bc96180",
   "lastOpenFiles": [
     "Templates/temp.md",
-    "test.md",
+    "Untitled.md",
+    "Templates/test template.md",
     "Code/usePrevious, useIsChanged.md",
     "JavaScript/e.target, e.currentTarget.md",
     "React/JSX.Element.md",
@@ -194,7 +184,6 @@
     "2024-07-28.md",
     "Web",
     "JavaScript",
-    "test.md",
     "React",
     "Untitled 1.canvas",
     "Untitled 3.canvas",

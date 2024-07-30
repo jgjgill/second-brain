@@ -3,5 +3,6 @@
   "obsidian-style-settings",
   "obsidian-excalidraw-plugin",
   "dataview",
-  "obsidian-git"
+  "obsidian-git",
+  "templater-obsidian"
 ]
