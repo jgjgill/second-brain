@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "a82e7f794f8a4e2a",
+            "id": "01898ec8f2d64efe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code/usePrevious, useIsChanged.md",
+                "file": "test.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#React",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Code/usePrevious, useIsChanged.md",
+                "file": "test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Code/usePrevious, useIsChanged.md",
+                "file": "test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Code/usePrevious, useIsChanged.md"
+                "file": "test.md"
               }
             }
           }
@@ -173,8 +173,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a82e7f794f8a4e2a",
+  "active": "01898ec8f2d64efe",
   "lastOpenFiles": [
+    "Templates/temp.md",
+    "test.md",
+    "Code/usePrevious, useIsChanged.md",
     "JavaScript/e.target, e.currentTarget.md",
     "React/JSX.Element.md",
     "React/ReactNode.md",
@@ -182,12 +185,10 @@
     "React/useLayoutEffect.md",
     "React/useSyncExternalStore.md",
     "React/test.md",
-    "Templates/temp.md",
     "qweqweqwe.md",
     "Templates",
     "Untitled 1",
     "Untitled.canvas",
-    "Code/usePrevious, useIsChanged.md",
     "React.md",
     "Code",
     "2024-07-28.md",
