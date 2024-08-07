@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "f79180529a583922",
+    "id": "f0c695916922dc7f",
     "type": "split",
     "children": [
       {
-        "id": "7d54515023dc1e34",
+        "id": "3fbf34d91f55b793",
         "type": "tabs",
         "children": [
           {
-            "id": "17093df9f6edef92",
+            "id": "674b43d928a4b212",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/useLayoutEffect.md",
+                "file": "Templates/test template.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "4ed679e5e6867965",
+    "id": "532914db292b6170",
     "type": "split",
     "children": [
       {
-        "id": "734ce10303b6b6c8",
+        "id": "a8bb029693bb901a",
         "type": "tabs",
         "children": [
           {
-            "id": "d14b1865c3bdffe7",
+            "id": "22073d0f0865eabf",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "ac519029a5d8445d",
+            "id": "703e44cef261e617",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "279ba53101e9c8a4",
+            "id": "49285dad71e860fd",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,23 +69,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "4d59d1645c1548c3",
+    "id": "fe63c93c24e2394d",
     "type": "split",
     "children": [
       {
-        "id": "9d55e24bde94fa37",
+        "id": "d46d610eb630e7bf",
         "type": "tabs",
         "children": [
           {
-            "id": "a8b4fcc9877da4f5",
+            "id": "382af0a184ac6d2d",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/useLayoutEffect.md",
+                "file": "Templates/test template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +97,19 @@
             }
           },
           {
-            "id": "fa9b0a0eeac1832b",
+            "id": "5873e81e8c93d948",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/useLayoutEffect.md",
+                "file": "Templates/test template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "b828e5e0ac32b34b",
+            "id": "2159ab31e9c56681",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,22 +120,29 @@
             }
           },
           {
-            "id": "07a35f0bdfcb54a4",
+            "id": "3cb8c80abbf44539",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/useLayoutEffect.md"
+                "file": "Templates/test template.md"
               }
+            }
+          },
+          {
+            "id": "79b9e7e9ae513966",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,40 +153,46 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "17093df9f6edef92",
+  "active": "674b43d928a4b212",
   "lastOpenFiles": [
-    "React/state.md",
-    "React/ReactNode.md",
-    "React/JSX.Element.md",
-    "React/useimperativehandle.md",
-    "React/Suspense.md",
-    "React/useLayoutEffect.md",
-    "React/useSyncExternalStore.md",
-    "React/Ref.md",
-    "Web/Cookie.md",
-    "JavaScript/e.target, e.currentTarget.md",
-    "Untitled.canvas",
-    "Templates/test template.md",
-    "test.md",
     "Templates/temp.md",
-    "Code/usePrevious, useIsChanged.md",
-    "React/test.md",
-    "qweqweqwe.md",
-    "Templates",
-    "Untitled 1",
-    "React.md",
-    "Code",
-    "2024-07-28.md",
+    "Templates/test template.md",
+    "Ref.md",
+    "TypeScript/string literal type.md",
+    "TypeScript",
+    "React/React.FC.md",
+    "React/Owner, Parent.md",
+    "Web/Cookie.md",
     "Web",
-    "JavaScript",
+    "React/useimperativehandle.md",
+    "React/state.md",
+    "React/Ref.md",
+    "JavaScript/e.target, e.currentTarget.md",
+    "test.md",
+    "useimperativehandle.md",
+    "React/useSyncExternalStore.md",
+    "React/Suspense.md",
+    "React/JSX.Element.md",
+    "React/ReactNode.md",
+    "React/useLayoutEffect.md",
+    "Code/usePrevious, useIsChanged.md",
+    "Templates",
     "React",
-    "Untitled 1.canvas",
-    "Untitled 3.canvas",
-    "Untitled 2.canvas",
-    "lll.canvas"
+    "JavaScript",
+    "Code",
+    "second-brain/Templates/test template.md",
+    "second-brain/Templates/temp.md",
+    "second-brain/Templates",
+    "second-brain/React/useSyncExternalStore.md",
+    "second-brain/React/useLayoutEffect.md",
+    "second-brain/React/Suspense.md",
+    "second-brain/React/ReactNode.md",
+    "second-brain/React",
+    "second-brain/JavaScript",
+    "second-brain/Code"
   ]
 }
