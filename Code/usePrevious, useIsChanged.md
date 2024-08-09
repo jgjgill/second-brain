@@ -1,4 +1,4 @@
-## 코드
+## Code
 
 ```ts
 import { useEffect, useRef } from 'react'

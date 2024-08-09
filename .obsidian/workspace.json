@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3fbf34d91f55b793",
+        "id": "3eb4b4270e9b0d56",
         "type": "tabs",
         "children": [
           {
-            "id": "674b43d928a4b212",
+            "id": "55cf3fba79bb1a4d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/Suspense.md",
+                "file": "JavaScript/Promise.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 288.5
   },
   "right": {
     "id": "fe63c93c24e2394d",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/Suspense.md",
+                "file": "JavaScript/Promise.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/Suspense.md",
+                "file": "JavaScript/Promise.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/Suspense.md"
+                "file": "JavaScript/Promise.md"
               }
             }
           },
@@ -142,7 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,21 +157,28 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "674b43d928a4b212",
+  "active": "55cf3fba79bb1a4d",
   "lastOpenFiles": [
-    "React/useTransition.md",
+    "JavaScript/ES Modules.md",
+    "JavaScript/e.target, e.currentTarget.md",
+    "JavaScript/Promise.md",
+    "Untitled.md",
+    "React/JSX.Element.md",
     "React/Suspense.md",
-    "React/startTransition.md",
+    "Code/useOutsideClick.md",
+    "Code/usePrevious, useIsChanged.md",
+    "JavaScript/CommonJS.md",
     "React/useDeferredValue.md",
+    "React/useLayoutEffect.md",
+    "React/useimperativehandle.md",
+    "React/useSyncExternalStore.md",
+    "React/Owner, Parent.md",
+    "React/useTransition.md",
+    "React/startTransition.md",
     "React/state.md",
     "React/ReactNode.md",
     "React/React.FC.md",
-    "React/JSX.Element.md",
-    "React/Owner, Parent.md",
     "React/Ref.md",
-    "React/useSyncExternalStore.md",
-    "React/useLayoutEffect.md",
-    "React/useimperativehandle.md",
     "Templates/test template.md",
     "Templates/temp.md",
     "Ref.md",
@@ -179,19 +186,12 @@
     "TypeScript",
     "Web/Cookie.md",
     "Web",
-    "JavaScript/e.target, e.currentTarget.md",
     "test.md",
-    "useimperativehandle.md",
-    "Code/usePrevious, useIsChanged.md",
     "Templates",
     "React",
     "JavaScript",
     "Code",
-    "second-brain/Templates/test template.md",
-    "second-brain/Templates/temp.md",
     "second-brain/Templates",
-    "second-brain/React/useSyncExternalStore.md",
-    "second-brain/React/useLayoutEffect.md",
     "second-brain/React",
     "second-brain/JavaScript",
     "second-brain/Code"
