@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3eb4b4270e9b0d56",
+        "id": "b1e9438d16c24986",
         "type": "tabs",
         "children": [
           {
-            "id": "55cf3fba79bb1a4d",
+            "id": "92129bbe50309ab0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/Promise.md",
+                "file": "JavaScript/JavaScript Runtime.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/Promise.md",
+                "file": "JavaScript/JavaScript Runtime.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript/Promise.md",
+                "file": "JavaScript/JavaScript Runtime.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/Promise.md"
+                "file": "JavaScript/JavaScript Runtime.md"
               }
             }
           },
@@ -157,11 +157,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "55cf3fba79bb1a4d",
+  "active": "92129bbe50309ab0",
   "lastOpenFiles": [
+    "JavaScript/JavaScript Runtime.md",
+    "JavaScript/Promise.md",
     "JavaScript/ES Modules.md",
     "JavaScript/e.target, e.currentTarget.md",
-    "JavaScript/Promise.md",
     "Untitled.md",
     "React/JSX.Element.md",
     "React/Suspense.md",
@@ -186,7 +187,6 @@
     "TypeScript",
     "Web/Cookie.md",
     "Web",
-    "test.md",
     "Templates",
     "React",
     "JavaScript",
