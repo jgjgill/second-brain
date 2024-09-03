@@ -1,4 +1,4 @@
-
+Tags: #JavaScript 
 ### ECMA Script
 자바스크립트 표준
 - 초기에 브라우저, 서버 모두 지원하고자 했음

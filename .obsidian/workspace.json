@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b1e9438d16c24986",
+        "id": "051e703972c4b274",
         "type": "tabs",
         "children": [
           {
-            "id": "92129bbe50309ab0",
+            "id": "2a9169f604e64c37",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/JavaScript Runtime.md",
+                "file": "React/ReactNode.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#DesignPattern",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/JavaScript Runtime.md",
+                "file": "React/ReactNode.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript/JavaScript Runtime.md",
+                "file": "React/ReactNode.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/JavaScript Runtime.md"
+                "file": "React/ReactNode.md"
               }
             }
           },
@@ -154,38 +154,40 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "92129bbe50309ab0",
+  "active": "2a9169f604e64c37",
   "lastOpenFiles": [
-    "JavaScript/JavaScript Runtime.md",
-    "JavaScript/Promise.md",
-    "JavaScript/ES Modules.md",
-    "JavaScript/e.target, e.currentTarget.md",
-    "Untitled.md",
     "React/JSX.Element.md",
-    "React/Suspense.md",
-    "Code/useOutsideClick.md",
-    "Code/usePrevious, useIsChanged.md",
+    "React/React.ReactElement.md",
+    "React/ReactNode.md",
+    "Design Pattern/Observer Pattern.md",
     "JavaScript/CommonJS.md",
-    "React/useDeferredValue.md",
+    "2024-09-03.md",
+    "Untitled.canvas",
+    "Code/useOutsideClick.md",
+    "JavaScript/Promise.md",
+    "JavaScript/JavaScript Runtime.md",
+    "JavaScript/e.target, e.currentTarget.md",
+    "JavaScript/ES Modules.md",
+    "JavaScript/Generator.md",
+    "React/Owner, Parent.md",
+    "React/useSyncExternalStore.md",
+    "React/useTransition.md",
     "React/useLayoutEffect.md",
     "React/useimperativehandle.md",
-    "React/useSyncExternalStore.md",
-    "React/Owner, Parent.md",
-    "React/useTransition.md",
-    "React/startTransition.md",
+    "React/useDeferredValue.md",
+    "React/Suspense.md",
     "React/state.md",
-    "React/ReactNode.md",
-    "React/React.FC.md",
     "React/Ref.md",
-    "Templates/test template.md",
-    "Templates/temp.md",
-    "Ref.md",
-    "TypeScript/string literal type.md",
+    "React/React.FC.md",
+    "Design Pattern",
+    "JavaScript/from.md",
+    "Untitled.md",
+    "Code/usePrevious, useIsChanged.md",
     "TypeScript",
-    "Web/Cookie.md",
     "Web",
     "Templates",
     "React",
@@ -193,7 +195,6 @@
     "Code",
     "second-brain/Templates",
     "second-brain/React",
-    "second-brain/JavaScript",
-    "second-brain/Code"
+    "second-brain/JavaScript"
   ]
 }
